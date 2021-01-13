@@ -1,0 +1,17 @@
+*
+
+!.gitignore
+!README.md
+
+!*/
+
+!lab_2/linux_mac/basic_operations.py
+!lab_3/linux_mac/exam_grader.py
+!lab_4/linux_mac/fahrenheit_converter.py
+lab_4/lab_4/README.md
+!lab_5/linux_mac/gowithflow.py
+!lab_6/linux_mac/factorial_calculator.py
+!lab_7/linux_mac/baseball_game.py
+!lab_8/linux_mac/morsecode.py
+!lab_9/linux_mac/file_io_example.py
+!lab_bla/linux_mac/basic_linear_algebra.py
